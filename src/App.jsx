@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Header/>
-     <h2>Content will go here.</h2>
+     <h1></h1>
       <Footer/>
     </>
   )
