@@ -21,6 +21,7 @@ h1 {
 
 .subheader {
   text-align: center;
+  font-size: 2rem;
 }
 
 h2 {
@@ -30,6 +31,11 @@ h2 {
 nav {
   display: flex;
   justify-content: space-evenly;
+}
+
+.about-paragraph-container {
+  width: 85%;
+  margin: auto;
 }
 
 p {
